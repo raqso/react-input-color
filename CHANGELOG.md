@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- fix hex change
+
 ## 3.0.0
 
 - true alpha support with `initialValue`
